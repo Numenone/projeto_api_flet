@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook Dell",
+      "price": 4500.0,
+      "quantity": 10,
+      "categoryId": 1,
+      "createdAt": "2025-06-28T21:58:47.505143"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 13",
+      "price": 6000.0,
+      "quantity": 15,
+      "categoryId": 2,
+      "createdAt": "2025-06-28T21:58:47.505143"
+    },
+    {
+      "id": 3,
+      "name": "Monitor LG",
+      "price": 1200.0,
+      "quantity": 8,
+      "categoryId": 3,
+      "createdAt": "2025-06-28T21:58:47.505143"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Notebooks"
+    },
+    {
+      "id": 2,
+      "name": "Celulares"
+    },
+    {
+      "id": 3,
+      "name": "Monitores"
+    },
+    {
+      "name": "Videogames",
+      "id": 4
+    },
+    {
+      "name": "Moeda Eletr\u00f4nica",
+      "id": 5
+    }
+  ]
+}
